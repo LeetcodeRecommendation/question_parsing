@@ -1,0 +1,11 @@
+aiokafka~=0.11.0
+uvicorn
+python-dotenv~=1.0.1
+pydantic~=2.8.2
+setuptools~=68.2.0
+playwright-stealth
+playwright~=1.45.1
+google-api-python-client
+cassandra-driver~=3.29.1
+redis~=4.6.0
+httpx
